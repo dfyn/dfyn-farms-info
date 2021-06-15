@@ -251,4 +251,28 @@
         },
         stakingRewardAddress: '0x80dF5A040E045817AB75A4214e29Dc95D83f1118'
     },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'LUNA',
+            name: 'LUNA',
+            chainId: 137,
+            address: '0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57',
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+          }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+          },
+        stakingRewardAddress: '0xB5583E039E4C9b627F6258bD823fd884668afE02'
+    },
+    
 ]
