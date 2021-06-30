@@ -149,7 +149,7 @@
       "name": "NORD",
       "symbol": "NORD",
       "decimals": 18,
-    },, {
+    }, {
       decimals: 18,
       symbol: 'DFYN',
       name: 'DFYN Token',
