@@ -359,5 +359,41 @@
             address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
         },
         stakingRewardAddress: '0x4Dd06f2D7746330C279Fdfa7a75407165eb1D845'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }, {
+            decimals: 18,
+            symbol: 'XUSD',
+            name: 'xDollar Stablecoin',
+            chainId: 137,
+            address: '0x3A3e7650f8B9f667dA98F236010fBf44Ee4B2975',
+        }],
+        rewardTokens: [{
+            decimals: 18,
+            symbol: 'XDO',
+            name: 'xDollar',
+            chainId: 137,
+            address: '0x3Dc7B06dD0B1f08ef9AcBbD2564f8605b4868EEA',
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        },
+        stakingRewardAddress: '0xc6Cface612849C1D378Fbfe8Bdf49D01bbf569Bb'
     }
 ]

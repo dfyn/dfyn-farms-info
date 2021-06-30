@@ -142,4 +142,27 @@
     },
     stakingRewardAddress: '0xf4822f5e1B01Dc101914C888d88E6d295c6A7FCA'
   },
+  {
+    tokens: [{
+      "chainId": 137,
+      "address": "0xF6F85b3f9fd581C2eE717c404F7684486F057F95",
+      "name": "NORD",
+      "symbol": "NORD",
+      "decimals": 18,
+    },, {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x2d7c3E61430E4CF4DC091C61df03eaAB6d67cd26'
+  },
  ]

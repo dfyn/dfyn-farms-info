@@ -691,4 +691,57 @@
         stakingRewardAddress: '0x9b0E341661E8A993BBe3dd4b1d2484f100A55BB4'
     },
     
+    {
+        tokens: [{
+            "chainId": 137,
+            "address": "0x3BfcE6D6F0d3D3f1326d86abdbe2845b4740Dc2E",
+            "name": "MATICPAD",
+            "symbol": "MATPAD",
+            "decimals": 18,
+        }, {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        }],
+        rewardTokens: {
+            "chainId": 137,
+            "address": "0x3BfcE6D6F0d3D3f1326d86abdbe2845b4740Dc2E",
+            "name": "MATICPAD",
+            "symbol": "MATPAD",
+            "decimals": 18,
+        },
+        baseToken: {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        },
+        stakingRewardAddress: '0x9Eabb8DcBFc062E3fD445E4028D617C0b6F3eaf1'
+    },
+    {
+        tokens: [{
+            "chainId": 137,
+            "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+            "name": "miMatic",
+            "symbol": "MIMATIC",
+            "decimals": 18,
+          }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+          }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+          },
+        stakingRewardAddress: '0x98D7c004C54C47b7e65320Bd679CB897Aae6a6D'
+    }
 ]
