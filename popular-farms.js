@@ -742,6 +742,6 @@
             chainId: 137,
             address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
           },
-        stakingRewardAddress: '0x98D7c004C54C47b7e65320Bd679CB897Aae6a6D'
+        stakingRewardAddress: '0x98D7c004C54C47b7e65320Bd679CB897Aae6a6D6'
     }
 ]
