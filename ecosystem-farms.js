@@ -165,4 +165,96 @@
     },
     stakingRewardAddress: '0x2d7c3E61430E4CF4DC091C61df03eaAB6d67cd26'
   },
+  {
+    tokens: [{
+      "name": "CosmicSwap",
+      "address": "0xa5Eb60CA85898f8b26e18fF7c7E43623ccbA772C",
+      "symbol": "COSMIC",
+      "decimals": 18,
+      "chainId": 137,
+    }, {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0xccEFB3926E9e2f77d4ce4E661f8D720f379817eD'
+  },
+  {
+    tokens: [{
+      "name": "beefy.finance",
+      "symbol": "BIFI",
+      "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+      "chainId": 137,
+      "decimals": 18,
+    }, {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0xECe1b93A70A0429Db6cF4580C325F831FBB16d52'
+  },
+  {
+    tokens: [{
+      "chainId": 137,
+      "address": "0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef",
+      "name": "Iron Finance ICE Token",
+      "symbol": "ICE",
+      "decimals": 18,  
+    }, {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0xD854E7339840F7D1E12B54FD75235eBc0bB6BfAC'
+  },
+  {
+    tokens: [{
+      "chainId": 137,
+      "address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
+      "name": "Titan DAO Finance",
+      "symbol": "TITAN",
+      "decimals": 18,
+  }, {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0xd94aA4f6BAAC53E558140a769B9DA6231bfb335e'
+  },
  ]

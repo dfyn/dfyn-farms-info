@@ -395,5 +395,41 @@
             address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
         },
         stakingRewardAddress: '0xc6Cface612849C1D378Fbfe8Bdf49D01bbf569Bb'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }, {
+            "name": "Ferrum Network Token",
+            "address": "0xd99baFe5031cC8B345cb2e8c80135991F12D7130",
+            "symbol": "FRM",
+            "decimals": 18,
+            "chainId": 137,
+          }],
+        rewardTokens: [{
+            "name": "Ferrum Network Token",
+            "address": "0xd99baFe5031cC8B345cb2e8c80135991F12D7130",
+            "symbol": "FRM",
+            "decimals": 18,
+            "chainId": 137,
+          }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        },
+        stakingRewardAddress: '0x038CDc7A25FEF0c7b3abD5C2a47071ba202Bbaf6'
     }
 ]
