@@ -743,5 +743,28 @@
             address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
           },
         stakingRewardAddress: '0x98D7c004C54C47b7e65320Bd679CB897Aae6a6D6'
-    }
+        },
+        {
+            tokens: [{
+                decimals: 18,
+                symbol: 'UST',
+                name: 'Wrapped UST Token',
+                chainId: 137,
+                address: '0x692597b009d13C4049a947CAB2239b7d6517875F',
+            }, {
+                decimals: 6,
+                symbol: 'USDT',
+                name: 'Tether USD',
+                chainId: 137,
+                address: '0xc2132D05D31c914a87C6611C10748AEb04B58e8F',
+            }],
+            baseToken: {
+                decimals: 6,
+                symbol: 'USDT',
+                name: 'Tether USD',
+                chainId: 137,
+                address: '0xc2132D05D31c914a87C6611C10748AEb04B58e8F',
+            },
+            stakingRewardAddress: '0x35A3a9DF5F0E2dFf08FBA3ece64Ea5faeD7D3b18'
+        },
 ]
