@@ -2,6 +2,19 @@
     {
    tokens: {
     decimals: 18,
+    symbol: 'ROUTE',
+    name: 'ROUTE Token',
+    chainId: 137,
+    address: '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4',
+  }
+   ,
+   version:'3',
+   vaultName: 'ROUTE 6-month vault',
+    vaultAddress: '0x3f820e5b1BC0Aa2E3FFAC70731e319316Bc47D91',
+ },
+    {
+   tokens: {
+    decimals: 18,
     symbol: 'DFYN',
     name: 'DFYN Token',
     chainId: 137,

@@ -1,6 +1,78 @@
 [
     {
         tokens: [{
+            "chainId": 137,
+            "address": "0x083c56d87ead73d6231c165ec450c6e28f3399c9",
+            "name": "ChartEx",
+            "symbol": "CHART",
+            "decimals": 18,
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        rewardTokens: [{
+            "chainId": 137,
+            "address": "0x083c56d87ead73d6231c165ec450c6e28f3399c9",
+            "name": "ChartEx",
+            "symbol": "CHART",
+            "decimals": 18,
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        },
+        stakingRewardAddress: '0x925616a980CA726A428476e8c74d737D568390F6'
+    },
+    {
+        tokens: [{
+            "name": "Rocket Vault",
+            "address": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7",
+            "symbol": "RVF",
+            "decimals": 18,
+            "chainId": 137,
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        rewardTokens: [{
+            "name": "Rocket Vault",
+            "address": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7",
+            "symbol": "RVF",
+            "decimals": 18,
+            "chainId": 137,
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        },
+        stakingRewardAddress: '0x153E36832263BcAcEc552Eb53537680E54B5737F'
+    },
+    {
+        tokens: [{
             decimals: 18,
             symbol: 'ROUTE',
             name: 'Route',
@@ -186,7 +258,7 @@
             symbol: "mRTK",
             decimals: 18,
             chainId: 137,
-          }, {
+        }, {
             decimals: 18,
             symbol: 'DFYN',
             name: 'DFYN Token',
@@ -199,7 +271,7 @@
             symbol: "mRTK",
             decimals: 18,
             chainId: 137,
-          }, {
+        }, {
             decimals: 18,
             symbol: 'DFYN',
             name: 'DFYN Token',
@@ -223,7 +295,7 @@
             symbol: "SX",
             decimals: 18,
             chainId: 137,
-          }, {
+        }, {
             decimals: 18,
             symbol: 'DFYN',
             name: 'DFYN Token',
@@ -236,7 +308,7 @@
             symbol: "SX",
             decimals: 18,
             chainId: 137,
-          }, {
+        }, {
             decimals: 18,
             symbol: 'DFYN',
             name: 'DFYN Token',
@@ -446,14 +518,14 @@
             "symbol": "FRM",
             "decimals": 18,
             "chainId": 137,
-          }],
+        }],
         rewardTokens: [{
             "name": "Ferrum Network Token",
             "address": "0xd99baFe5031cC8B345cb2e8c80135991F12D7130",
             "symbol": "FRM",
             "decimals": 18,
             "chainId": 137,
-          }, {
+        }, {
             decimals: 18,
             symbol: 'DFYN',
             name: 'DFYN Token',
