@@ -2,6 +2,133 @@
   //v2
   {
     tokens: [{
+      decimals: 4,
+      symbol: 'AGA',
+      name: 'AGA',
+      chainId: 137,
+      address: '0x033d942a6b495c4071083f4cde1f17e986fe856c',
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x2CaAA00D4505aD79FA75C06c475828e47B01C042'
+  },
+  {
+    tokens: [{
+      decimals: 8,
+      symbol: 'AGAr',
+      name: 'AGAr',
+      chainId: 137,
+      address: '0xf84bd51eab957c2e7b7d646a3427c5a50848281d',
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0xf8F6cf2f6Dc86dDB471552AA33cD6BeAC495E444'
+  },
+  {
+    tokens: [{
+      "chainId": 137,
+      "address": "0xF4B0903774532AEe5ee567C02aaB681a81539e92",
+      "name": "GAJ",
+      "symbol": "GAJ",
+      "decimals": 18,
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x8257383036071C57235bfA12B76778215C348528'
+  },
+  {
+    tokens: [{
+      "chainId": 137,
+      "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+      "name": "Eleven.finance",
+      "symbol": "ELE",
+      "decimals": 18,
+    },
+    {
+      "chainId": 137,
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+    },
+    ],
+    baseToken: {
+      "chainId": 137,
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+    },
+    stakingRewardAddress: '0xB6a316dDe99a2844C80355a3Ef165AaD5Eb7d708'
+  },
+  {
+    tokens: [{
+      "chainId": 137,
+      "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+      "name": "Eleven.finance",
+      "symbol": "ELE",
+      "decimals": 18,
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x139D73E055308507b6718AFFAB679c2186b6d90e'
+  },
+
+
+  {
+    tokens: [{
       decimals: 18,
       symbol: 'FISH',
       name: 'Fish Token',
