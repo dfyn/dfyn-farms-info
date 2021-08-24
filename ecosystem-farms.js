@@ -1,4 +1,155 @@
 [
+  //v3
+  {
+    tokens: [{
+      decimals: 18,
+      symbol: 'WMATIC',
+      name: 'WMATIC',
+      chainId: 137,
+      address: '0x4c28f48448720e9000907bc2611f73022fdce1fa',
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x45Ea0bBa68c7435b55A4bBD6B09ec2A0DfCDf334'
+  },
+  {
+    tokens: [{
+      decimals: 18,
+      symbol: 'LUNA',
+      name: 'LUNA',
+      chainId: 137,
+      address: '0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57',
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x52b965ccd44A98A8aa064bC597C895adCD02e9BC'
+  },
+  {
+    tokens: [{
+      decimals: 18,
+      symbol: 'LINK',
+      name: 'Chainlink',
+      chainId: 137,
+      address: '0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39',
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0xD739035dcFfbEc4069E46021019eE7ABBF537AA2'
+  },
+  {
+    tokens: [{
+      decimals: 18,
+      symbol: 'AAVE',
+      name: 'AAVE',
+      chainId: 137,
+      address: '0xd6df932a45c0f255f85145f286ea0b292b21c90b',
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x75919e23AccA92977C9098255c509311E6A62C59'
+  },
+  {
+    tokens: [{
+      decimals: 18,
+      symbol: 'UNI',
+      name: 'Uniswap',
+      chainId: 137,
+      address: '0xb33eaad8d922b1083446dc23f610c2567fb5180f',
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x924B6897aAfb0d4B20A6E439f99C19173987E19b'
+  },
+  {
+    tokens: [{
+      decimals: 18,
+      symbol: 'CRV',
+      name: 'Curve',
+      chainId: 137,
+      address: '0x172370d5cd63279efa6d502dab29171933a610af',
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x25D779d16021dDD15932f9f3B6EE745b4c8fd488'
+  },
   //v2
   {
     tokens: [{
