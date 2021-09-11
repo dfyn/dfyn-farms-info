@@ -2,6 +2,42 @@
     //v3
     {
         tokens: [{
+            "name": "Razor",
+            "address": "0xc91c06db0f7bffba61e2a5645cc15686f0a8c828",
+            "symbol": "RAZOR",
+            "decimals": 18,
+            "chainId": 137,
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        rewardTokens: [{
+            "name": "Razor",
+            "address": "0xc91c06db0f7bffba61e2a5645cc15686f0a8c828",
+            "symbol": "RAZOR",
+            "decimals": 18,
+            "chainId": 137,
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        },
+        stakingRewardAddress: '0x00148Bd87C72fBE3E882a530F74aA74A2f1F463F'
+    },
+    {
+        tokens: [{
             decimals: 18,
             symbol: 'ROUTE',
             name: 'Route',

@@ -1,20 +1,100 @@
-[
-  //v3
+[//v4
   {
-    tokens: [{
-      decimals: 18,
-      symbol: 'WMATIC',
-      name: 'WMATIC',
-      chainId: 137,
-      address: '0x4c28f48448720e9000907bc2611f73022fdce1fa',
-    },
-    {
+    tokens: [
+      {
+        "chainId": 137,
+        "address": "0xCB898b0eFb084Df14dd8E018dA37B4d0f06aB26D",
+        "name": "Sing Token",
+        "symbol": "SING",
+        "decimals": 18,
+      },
+      {
+        decimals: 18,
+        symbol: 'DFYN',
+        name: 'DFYN Token',
+        chainId: 137,
+        address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+      }
+    ],
+    baseToken: {
       decimals: 18,
       symbol: 'DFYN',
       name: 'DFYN Token',
       chainId: 137,
       address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
-    }
+    },
+    stakingRewardAddress: '0x10b70CC73E3FE9fb518FA86814cEcb97e74C4376'
+  },
+  {
+    tokens: [
+      {
+        "name": "beefy.finance",
+        "symbol": "BIFI",
+        "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+        "chainId": 137,
+        "decimals": 18,
+      },
+      {
+        decimals: 18,
+        symbol: 'DFYN',
+        name: 'DFYN Token',
+        chainId: 137,
+        address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+      }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0xa11b8DC1108692AB4A21fb780f3389e27E3DFDEA'
+  },
+  {
+    tokens: [
+      {
+        "name": "Razor",
+        "address": "0xc91c06db0f7bffba61e2a5645cc15686f0a8c828",
+        "symbol": "RAZOR",
+        "decimals": 18,
+        "chainId": 137,
+      },
+      {
+        decimals: 18,
+        symbol: 'ETH',
+        name: 'Ether',
+        chainId: 137,
+        address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+      }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'ETH',
+      name: 'Ether',
+      chainId: 137,
+      address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+    },
+    stakingRewardAddress: '0x07A6314C933663472C1a66b2bd4097B60625e35E'
+  },
+  //v3
+  {
+    tokens: [
+
+      {
+        decimals: 18,
+        symbol: 'WMATIC',
+        name: 'WMATIC',
+        chainId: 137,
+        address: '0x4c28f48448720e9000907bc2611f73022fdce1fa',
+      },
+      {
+        decimals: 18,
+        symbol: 'DFYN',
+        name: 'DFYN Token',
+        chainId: 137,
+        address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+      }
     ],
     baseToken: {
       decimals: 18,
