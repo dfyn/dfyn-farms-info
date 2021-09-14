@@ -1,4 +1,108 @@
-[//v4
+[
+  //V5
+  {
+    tokens: [{
+      "name": "Ferrum Network Token",
+      "address": "0xd99baFe5031cC8B345cb2e8c80135991F12D7130",
+      "symbol": "FRM",
+      "decimals": 18,
+      "chainId": 137,
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x44fcF521747BA7f152d78b0b206D43580A2bdf73'
+  },
+  {
+    tokens: [{
+      "chainId": 137,
+      "address": "0xF4B0903774532AEe5ee567C02aaB681a81539e92",
+      "name": "GAJ",
+      "symbol": "GAJ",
+      "decimals": 18,
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x81CB25e0ebB5b31DeA411114DAE995678582871b'
+  },
+  {
+    tokens: [{
+      "chainId": 137,
+      "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+      "name": "Eleven.finance",
+      "symbol": "ELE",
+      "decimals": 18,
+    },
+    {
+      "chainId": 137,
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+    },
+    ],
+    baseToken: {
+      "chainId": 137,
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+    },
+    stakingRewardAddress: '0x0185801628dC4fC0c24E83681f3f6a515E29FDE0'
+  },
+  {
+    tokens: [{
+      "chainId": 137,
+      "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+      "name": "Eleven.finance",
+      "symbol": "ELE",
+      "decimals": 18,
+    },
+    {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }
+    ],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x0d5F036c1AAe892c4d52bC0151E9466b0edee352'
+  },
+
+
+  //v4
   {
     tokens: [
       {
