@@ -1,6 +1,29 @@
 [
     {
         tokens: [{
+            decimals: 18,
+            symbol: 'UST',
+            name: 'Wrapped UST Token',
+            chainId: 137,
+            address: '0x692597b009d13C4049a947CAB2239b7d6517875F',
+        }, {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        }],
+        baseToken: {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        },
+        stakingRewardAddress: '0xB3e063CBbA9750142786a938d72ffF6d4a437554'
+    },
+    {
+        tokens: [{
             "chainId": 137,
             "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
             "name": "Nexo",
