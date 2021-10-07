@@ -2,7 +2,58 @@
   //v6
   {
     tokens: [
-
+      {
+        tokens: [
+          {
+            "name": "Razor",
+            "address": "0xc91c06db0f7bffba61e2a5645cc15686f0a8c828",
+            "symbol": "RAZOR",
+            "decimals": 18,
+            "chainId": 137,
+          },
+          {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+          }
+        ],
+        baseToken: {
+          decimals: 18,
+          symbol: 'ETH',
+          name: 'Ether',
+          chainId: 137,
+          address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        },
+        stakingRewardAddress: '0x8B06E585EA290E12971B25611D62e30A6f0c5b1B'
+      },
+      {
+        tokens: [
+          {
+            "chainId": 137,
+            "address": "0x2a82437475a60bebd53e33997636fade77604fc2",
+            "name": "Cirus",
+            "symbol": "CIRUS",
+            "decimals": 18,
+          },
+          {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+          }
+        ],
+        baseToken: {
+          decimals: 18,
+          symbol: 'DFYN',
+          name: 'DFYN Token',
+          chainId: 137,
+          address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        },
+        stakingRewardAddress: '0x8F353598186dd488528D8C4e532DB27B304521F1'
+      },
       {
         decimals: 18,
         symbol: 'WMATIC',
