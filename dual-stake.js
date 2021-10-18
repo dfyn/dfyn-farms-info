@@ -2,6 +2,42 @@
     //v5
     {
         tokens: [{
+            "chainId": 137,
+            "address": "0x0d6ae2a429df13e44a07cd2969e085e4833f64a0",
+            "name": "PolkaBridge",
+            "symbol": "PBR",
+            "decimals": 18,
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        rewardTokens: [{
+            "chainId": 137,
+            "address": "0x0d6ae2a429df13e44a07cd2969e085e4833f64a0",
+            "name": "PolkaBridge",
+            "symbol": "PBR",
+            "decimals": 18,
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        },
+        stakingRewardAddress: '0x5B2CE8dDE5B99D974EC557B53e864f9EBb80FA66'
+    },
+    {
+        tokens: [{
             "name": "Razor",
             "address": "0xc91c06db0f7bffba61e2a5645cc15686f0a8c828",
             "symbol": "RAZOR",
