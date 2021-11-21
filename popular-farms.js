@@ -1,4 +1,305 @@
 [
+    //v7
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'UST',
+            name: 'Wrapped UST Token',
+            chainId: 137,
+            address: '0x692597b009d13C4049a947CAB2239b7d6517875F',
+        }, {
+            decimals: 6,
+            symbol: 'USDT',
+            name: 'Tether USD',
+            chainId: 137,
+            address: '0xc2132D05D31c914a87C6611C10748AEb04B58e8F',
+        }],
+        baseToken: {
+            decimals: 6,
+            symbol: 'USDT',
+            name: 'Tether USD',
+            chainId: 137,
+            address: '0xc2132D05D31c914a87C6611C10748AEb04B58e8F',
+        },
+        stakingRewardAddress: '0x8C66D38032b3FF698b379d2C13Cb9A484331A732'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'UST',
+            name: 'Wrapped UST Token',
+            chainId: 137,
+            address: '0x692597b009d13C4049a947CAB2239b7d6517875F',
+        }, {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        }],
+        baseToken: {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        },
+        stakingRewardAddress: '0xA9E948A5a9549883908458A1f25f046eE9793916'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }, {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        }],
+        baseToken: {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        },
+        stakingRewardAddress: '0x3AfD72c0d6a6048bdA4E54f37C17A4034621DB0f'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }, {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        },
+        stakingRewardAddress: '0x35D21D11f3e5C6A733C18Bb39310088cd19DAc9c'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        }, {
+            decimals: 18,
+            symbol: 'WBTC',
+            name: 'WBTC',
+            chainId: 137,
+            address: '0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        },
+        stakingRewardAddress: '0xEe772bcCd4919651de4F54b5f5379c4aC9dcF32C'
+    },
+    {
+        tokens: [{
+            decimals: 6,
+            symbol: 'USDT',
+            name: 'Tether USD',
+            chainId: 137,
+            address: '0xc2132D05D31c914a87C6611C10748AEb04B58e8F',
+        }, {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        }],
+        baseToken: {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        },
+        stakingRewardAddress: '0x13f8674468bC60a96d7ea73038F62eE7C6f2Bf46'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        }, {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        }],
+        baseToken: {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        },
+        stakingRewardAddress: '0x8fbE445FCa0CD4Bf5A1646b6d405D9F7BE5Ee083'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'ROUTE',
+            name: 'Route',
+            chainId: 137,
+            address: '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4',
+        }, {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        }],
+        baseToken: {
+            decimals: 6,
+            symbol: 'USDC',
+            name: 'USDC',
+            chainId: 137,
+            address: '0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174',
+        },
+        stakingRewardAddress: '0x687dE006D6cB393c6Fae3c75AbBD62BFC2B92250'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'ROUTE',
+            name: 'Route',
+            chainId: 137,
+            address: '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4',
+        }, {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        },
+        stakingRewardAddress: '0x0cffcCeF81AAF39F3D5b6271F067FeFfb24DBd1b'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'WMATIC',
+            name: 'WMATIC',
+            chainId: 137,
+            address: '0x4c28f48448720e9000907bc2611f73022fdce1fa',
+        }, {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        },
+        stakingRewardAddress: '0x083FBd5D63a95cE0C6C33Fb66A8E5a4B65945a5C'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'MANA',
+            name: 'Decentraland',
+            chainId: 137,
+            address: '0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4',
+        }, {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        },
+        stakingRewardAddress: '0x8F0c6DdF47EecDAF02860BE82B2aC7E485bd08dF'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'SOL',
+            name: 'SOL',
+            chainId: 137,
+            address: '0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4',
+        }, {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        },
+        stakingRewardAddress: '0x9213ab4015F9a619c6E0f3380B4508EB310CC917'
+    },
+
+    {
+        tokens: [{
+            "chainId": 137,
+            "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
+            "name": "Nexo",
+            "symbol": "NEXO",
+            "decimals": 18,
+        }, {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'ETH',
+            name: 'Ether',
+            chainId: 137,
+            address: '0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
+        },
+        stakingRewardAddress: '0x09Fce8E9855d6DD733d2c15b918eB65ce159138D'
+    },
     //v6
     {
         tokens: [{
