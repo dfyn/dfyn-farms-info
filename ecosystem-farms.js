@@ -2,6 +2,29 @@
   //v8
   {
     tokens: [{
+      decimals: 4,
+      symbol: 'AGA',
+      name: 'AGA',
+      chainId: 137,
+      address: '0x033d942a6b495c4071083f4cde1f17e986fe856c',
+    }, {
+      decimals: 8,
+      symbol: 'AGAr',
+      name: 'AGAr',
+      chainId: 137,
+      address: '0xf84bd51eab957c2e7b7d646a3427c5a50848281d',
+    },],
+    baseToken: {
+      decimals: 4,
+      symbol: 'AGA',
+      name: 'AGA',
+      chainId: 137,
+      address: '0x033d942a6b495c4071083f4cde1f17e986fe856c',
+    },
+    stakingRewardAddress: '0xfD2092E2ED896d010E429b4c7587f126A2b24bA3'
+  },
+  {
+    tokens: [{
       decimals: 18,
       symbol: 'LUNA',
       name: 'LUNA',
