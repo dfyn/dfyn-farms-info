@@ -23,6 +23,53 @@
     },
     stakingRewardAddress: '0x3C045a183ED4784142c042070be6B25AE6D9854D'
   },
+  {
+    tokens: [{
+      "name": "Decentraland MANA",
+      "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+      "symbol": "MANA",
+      "decimals": 18,
+      "chainId": 137,
+
+    }, {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0xf7f083b6226Cfef2F9bc349B46254088d1B9ADBE'
+  },
+  {
+    tokens: [{
+      "chainId": 137,
+      "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
+      "name": "Nexo",
+      "symbol": "NEXO",
+      "decimals": 18
+    }, {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    }],
+    baseToken: {
+      decimals: 18,
+      symbol: 'DFYN',
+      name: 'DFYN Token',
+      chainId: 137,
+      address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+    },
+    stakingRewardAddress: '0x2AE6A2603A400733A7dC9b920e6ed4b3ACCAEF71'
+  },
 
   //v8
   {
