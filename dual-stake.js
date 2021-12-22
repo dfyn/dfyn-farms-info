@@ -33,6 +33,78 @@
             chainId: 137,
             address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
         },
+        stakingRewardAddress: '0x0656Bd61A18Fd8E4bd48F90e41D043CdfEc96aE0'
+    },
+    {
+        tokens: [{
+            decimals: 18,
+            symbol: 'ROUTE',
+            name: 'Route',
+            chainId: 137,
+            address: '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4',
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        rewardTokens: [{
+            decimals: 18,
+            symbol: 'ROUTE',
+            name: 'Route',
+            chainId: 137,
+            address: '0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4',
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        },
+        stakingRewardAddress: '0x4b7Ce241B6E58Cef602F4EE588B8bD40f4e79066'
+    },
+    {
+        tokens: [{
+            "chainId": 137,
+            "address": "0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a",
+            "name": "Ethermon Token",
+            "symbol": "EMON",
+            "decimals": 18,
+        }, {
+            "chainId": 137,
+            "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+        }],
+        rewardTokens: [{
+            "chainId": 137,
+            "address": "0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a",
+            "name": "Ethermon Token",
+            "symbol": "EMON",
+            "decimals": 18,
+        }, {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        }],
+        baseToken: {
+            decimals: 18,
+            symbol: 'DFYN',
+            name: 'DFYN Token',
+            chainId: 137,
+            address: '0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97',
+        },
         stakingRewardAddress: '0xD65c7cEb912a833ED1D6abBeDC96864060f68e48'
     },
     {
